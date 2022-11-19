@@ -1,0 +1,41 @@
+.subtitle{
+    color: grey;
+}
+
+body{
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+
+.img{
+    max-width: 200px;
+}
+
+.label{
+    margin: auto;
+    padding: 0px;
+    width: 40%;
+    float: left;
+    display: block;
+ }
+
+ table{
+    border: 1px solid grey;
+    max-width: 305px;
+    text-align: center;
+    margin: auto;
+    padding: 0px;
+    width: 40%;
+    float: left;
+    display: block;
+    margin-left: 35%;
+ }
+
+ .botao{
+    background-color: #0095f6;
+    color: #FFFFFF;
+    width: 150px;
+    border-radius: 3px;
+ }
